@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8lxeUpy0p2gkei0eMkJPLuA+RWnZtT2C0uaNE9PinAsd0GfBtRvoE7L5kAv84VTVxOTh4wNiFKzXeR4CRzNPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Indatech\\Documents\\Desarrollo\\Proyectos de Practica\\.net\\2022\\NetRabbitMQ\\NetRabbitMQ\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Indatech\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\Indatech\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Indatech\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
